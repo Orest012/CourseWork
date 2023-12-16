@@ -1,0 +1,100 @@
+ID: 1
+Name: Bosch IXO
+Type: Power Tool
+Subtype: Screwdriver
+Country: Germany
+Price: 50
+Reviews:
+JohnDoe - Great screwdriver for home use!
+DIYFanatic - Lightweight and powerful, highly recommend!
+
+ID: 2
+Name: Stanley FatMax AntiVibe
+Type: Hand Tool
+Subtype: Ball Pein Hammer
+Country: USA
+Price: 30
+Reviews:
+HandyAndy - Convenient tool for working with nails.
+Craftsman123 - Powerful hammer, anti-vibration system works great!
+
+ID: 3
+Name: Makita Drywall Cutter
+Type: Power Tool
+Subtype: Drywall Cutter
+Country: Japan
+Price: 80
+Reviews:
+FixItFelix - Saved me during wall renovation.
+ProBuilder - Easy to use, sharp tool.
+
+ID: 4
+Name: DeWalt DW088K
+Type: Power Tool
+Subtype: Laser Level
+Country: USA
+Price: 120
+Reviews:
+PrecisionMaster - Accurate laser level, perfect for construction.
+HomeRenovator - User-friendly, quickly levels surfaces.
+
+ID: 5
+Name: Wiss M3R
+Type: Hand Tool
+Subtype: Metal Shears
+Country: USA
+Price: 25
+Reviews:
+MetalMaestro - Lightweight and sharp, cuts like butter.
+CuttingEdge - Used for cutting metal sheets, satisfied with the results.
+
+ID: 6
+Name: Hilti TE 30-A36
+Type: Power Tool
+Subtype: Rotary Hammer
+Country: Switzerland
+Price: 400
+Reviews:
+DrillMaster - A true giant among rotary hammers, works incredibly powerful.
+ConstructionPro - Reliable and highly effective, great for construction work.
+
+ID: 7
+Name: Ridgid 31632
+Type: Hand Tool
+Subtype: Pipe Wrench
+Country: USA
+Price: 50
+Reviews:
+PipeMaster - Excellent for gripping pipes, a reliable tool.
+PlumbingPro - Gets the job done quickly and effectively.
+
+ID: 8
+Name: Makita 9557PBX1
+Type: Power Tool
+Subtype: Angle Grinder
+Country: Japan
+Price: 80
+Reviews:
+SmoothOperator - Grinds flawlessly, handles any surface with ease.
+WoodworkerPro - Very satisfied with the performance of this angle grinder.
+
+ID: 9
+Name: Craftsman 20-Piece Ratcheting Wrench Set
+Type: Hand Tool
+Subtype: Combination Wrench
+Country: USA
+Price: 70
+Reviews:
+WrenchMaster - Convenient and reliable wrenches for any job.
+GearHead - Ratcheting is very convenient, wide working angle.
+
+ID: 10
+Name: Stanley 12-137 No.62
+Type: Hand Tool
+Subtype: Jack Plane
+Country: USA
+Price: 150
+Reviews:
+WoodCraftsman - High-quality jack plane, perfect for precise woodworking.
+HandPlaner - Easily corrects surfaces, excellent tool.
+
